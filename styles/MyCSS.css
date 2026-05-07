@@ -25,3 +25,11 @@
     align-items: center;
     background-color: lightyellow;
 }
+
+flex-head {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
